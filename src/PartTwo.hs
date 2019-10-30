@@ -64,7 +64,6 @@ p16 n list = front ++ p16 n remain
 -- Split a list into two parts.
 
 
-
 -- Extract a slice from a list.
 
 
