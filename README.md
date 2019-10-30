@@ -25,10 +25,10 @@ Important Question:
 - [x] 14. Duplicate the elements of a list.
 - [x] 15. Replicate the elements of a list a given number of times.
 - [x] 16. Drop every N'th element from a list.
-- [ ] 17. Split a list into two parts; the length of the first part is given.
-- [ ] 18. Extract a slice from a list.
-- [ ] 19. Rotate a list N places to the left.
-- [ ] 20. Remove the K'th element from a list.
+- [x] 17. Split a list into two parts; the length of the first part is given.
+- [x] 18. Extract a slice from a list.
+- [x] 19. Rotate a list N places to the left.
+- [x] 20. Remove the K'th element from a list.
 
 ## Questions 21 to 28: Lists again
 - [ ] 21. Insert an element at a given position into a list.
