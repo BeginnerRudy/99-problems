@@ -4,7 +4,9 @@
 # The problems ![Progress](http://progressed.io/bar/54)
 
 Important Question:
-- 17 
+- 17 split a list into two parts
+- 26 combination generator
+- 35 find all prime factors
 
 ## Questions 1 to 10: Lists
 - [x] 1. Find the last element of a list.
@@ -31,8 +33,8 @@ Important Question:
 - [x] 20. Remove the K'th element from a list.
 
 ## Questions 21 to 28: Lists again
-- [ ] 21. Insert an element at a given position into a list.
-- [ ] 22. Create a list containing all integers within a given range.
+- [x] 21. Insert an element at a given position into a list.
+- [x] 22. Create a list containing all integers within a given range.
 - [ ] 23. Extract a given number of randomly selected elements from a list.
 - [ ] 24. Lotto: Draw N different random numbers from the set 1..M.
 - [ ] 25. Generate a random permutation of the elements of a list.
@@ -49,17 +51,17 @@ Important Question:
 - [ ] 30. Skipped
 
 ## Questions 31 to 41: Arithmetic
-- [ ] 31. Determine whether a given integer number is prime.
-- [ ] 32. Determine the greatest common divisor of two positive integer numbers. Use Euclid's algorithm.
-- [ ] 33. Determine whether two positive integer numbers are coprime.
-- [ ] 34. Calculate Euler's totient function phi(m).
+- [x] 31. Determine whether a given integer number is prime.
+- [x] 32. Determine the greatest common divisor of two positive integer numbers. Use Euclid's algorithm.
+- [x] 33. Determine whether two positive integer numbers are coprime.
+- [x] 34. Calculate Euler's totient function phi(m).
 - [ ] 35. Determine the prime factors of a given positive integer. Construct a flat list containing the prime factors in ascending order.
 - [ ] 36. Determine the prime factors of a given positive integer. Construct a list containing the prime factors and their multiplicity.
 - [ ] 37. Calculate Euler's totient function phi(m) (improved).
 - [ ] 38. Compare the two methods of calculating Euler's totient function.
-- [ ] 39. A list of prime numbers. Given a range of integers by its lower and upper limit, construct a list of all prime numbers in that range.
-- [ ] 40. Goldbach's conjecture.
-- [ ] 41. Given a range of integers by its lower and upper limit, print a list of all even numbers and their Goldbach composition.
+- [x] 39. A list of prime numbers. Given a range of integers by its lower and upper limit, construct a list of all prime numbers in that range.
+- [x] 40. Goldbach's conjecture.
+- [x] 41. Given a range of integers by its lower and upper limit, print a list of all even numbers and their Goldbach composition.
 
 ## Skipped
 - [ ] 42. Skipped
