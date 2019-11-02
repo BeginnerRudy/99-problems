@@ -7,6 +7,8 @@ Important Question:
 - 17 split a list into two parts
 - 26 combination generator
 - 35 find all prime factors
+- 55 balanced binary search tree
+- 57 List to binary search tree (interesting)
 
 ## Questions 1 to 10: Lists
 - [x] 1. Find the last element of a list.
@@ -50,7 +52,7 @@ Important Question:
 - [ ] 29. Skipped
 - [ ] 30. Skipped
 
-## Questions 31 to 41: Arithmetic
+## Questions 31 to 41: Arithmetic (Prime, GCD)
 - [x] 31. Determine whether a given integer number is prime.
 - [x] 32. Determine the greatest common divisor of two positive integer numbers. Use Euclid's algorithm.
 - [x] 33. Determine whether two positive integer numbers are coprime.
@@ -82,12 +84,12 @@ Important Question:
 - [ ] 53. Skipped 
 
 ## Questions 54A to 60: Binary trees
-- [ ] 54A. Check whether a given term represents a binary tree. *(non-solution)*
-- [ ] 55. Construct completely balanced binary trees
-- [ ] 56. Symmetric binary trees
-- [ ] 57. Binary search trees (dictionaries)
-- [ ] 58. Generate-and-test paradigm
-- [ ] 59. Construct height-balanced binary trees
+- [x] 54A. Check whether a given term represents a binary tree. *(non-solution)*
+- [x] 55. Construct completely balanced binary trees
+- [x] 56. Symmetric binary trees
+- [x] 57. Binary search trees (dictionaries)
+- [x] 58. Generate-and-test paradigm
+- [x] 59. Construct height-balanced binary trees
 - [ ] 60. Construct height-balanced binary trees with a given number of nodes
 
 ## Questions 61 to 69: Binary trees, continued
