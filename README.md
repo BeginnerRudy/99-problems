@@ -9,6 +9,9 @@ Important Question:
 - 35 find all prime factors
 - 55 balanced binary search tree
 - 57 List to binary search tree (interesting)
+- 64,65,66 layout agorithm for binary search tree 
+- 67 is really shows why recursion is awesome
+
 
 ## Questions 1 to 10: Lists
 - [x] 1. Find the last element of a list.
@@ -93,18 +96,17 @@ Important Question:
 - [ ] 60. Construct height-balanced binary trees with a given number of nodes
 
 ## Questions 61 to 69: Binary trees, continued
-- [ ] 61. Count the leaves of a binary tree
-- [ ] 61A. Collect the leaves of a binary tree in a list
-- [ ] 62. Collect the internal nodes of a binary tree in a list
-- [ ] 62B. Collect the nodes at a given level in a list
-- [ ] 63. Construct a complete binary tree
+- [x] 61. Count the leaves of a binary tree
+- [x] 61A. Collect the leaves of a binary tree in a list
+- [x] 62. Collect the internal nodes of a binary tree in a list
+- [x] 62B. Collect the nodes at a given level in a list
+- [x] 63. Construct a complete binary tree
 - [ ] 64. Annotate each node of the tree with a position
 - [ ] 65. Annotate each node of the tree with a position (alternative layout method)
 - [ ] 66. Annotate each node of the tree with a position (Yet another layout strategy)
-- [ ] 67. A string representation of binary trees
-- [ ] 68. Preorder and inorder sequences of binary trees.
-- [ ] 68A. Write predicates preorder/2 and inorder/2 that construct the preorder and inorder sequence of a given binary tree, respectively.
-- [ ] 68B. Use preorder/2 from problem part a) in the reverse direction.
+- [x] 67. A string representation of binary trees
+- [x] 68A. Write predicates preorder/2 and inorder/2 that construct the preorder and inorder sequence of a given binary tree, respectively.
+- [x] 68B. Use preorder/2 from problem part a) in the reverse direction.
 - [ ] 68C. If both the preorder sequence and the inorder sequence of the nodes of a binary tree are given, then the tree is determined unambiguously. Write a predicate pre_in_tree/3 that does the job.
 - [ ] 69. Dotstring representation of binary trees.
 
